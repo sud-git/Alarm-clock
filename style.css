@@ -24,8 +24,9 @@ body{
   flex-direction: column;
   box-shadow: 0 10px 25px rgba(0,0,0,0.1);
 }
-.wrapper img{
-  max-width: 103px;
+.clock-icon{
+  font-size: 80px;
+  line-height: 1;
 }
 .wrapper h1{
   font-size: 38px;
